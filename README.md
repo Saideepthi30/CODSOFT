@@ -30,7 +30,7 @@ Jupyter Notebook / Google Colab
 
 How to Run This Project
 Clone the repository
-git clone https://github.com/YourUsername/CODSOFT.git
+git clone https://github.com/SaiDeepthi30/CODSOFT.git
 Open the Jupyter notebook:
 jupyter notebook Untitled4.ipynb
 Run all cells to train and evaluate the model.
