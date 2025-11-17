@@ -39,7 +39,6 @@ To use the saved model directly:
 python
 import pickle
 model = pickle.load(open("movie_rating_model.pkl", "rb"))
-# Use model.predict() for new predictions
 
 Internship Information:
 This project is Task-2 of the CodSoft Data Science Internship — November Batch.
